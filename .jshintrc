@@ -1,0 +1,31 @@
+{
+  "esversion": 6
+  , "devel": true
+  , "bitwise": true
+  , "trailing": true
+  , "quotmark": false
+  , "indent": 4
+  , "unused": "vars"
+  , "latedef": "nofunc"
+  , "node": true
+  , "curly": true
+  , "eqeqeq": true
+  , "immed": true
+  , "newcap": true
+  , "noarg": true
+  , "sub": true
+  , "undef": true
+  , "unused": true
+  , "eqnull": true
+  , "boss": true
+  , "globals": {
+      "module": false,
+      "exports": false,
+      "require": false,
+      "browser": true,
+      "element": true,
+      "by": true,
+      "By": true,
+      "expect": true
+  }
+}
